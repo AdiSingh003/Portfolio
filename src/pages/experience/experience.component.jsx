@@ -34,50 +34,16 @@ const Experience = () => {
                   </strong>
                   <br />
                   <strong>Technology:</strong> Php, Ajax, JQuery, SiMan CMS,
-                  Javascript
+                  Javascript,Smarty
                   <br />
                   <strong>Duration:</strong> Jan 2024 - Present
                   <br />
                   <strong> Description </strong>
                   <ul className="text-left">
                     <li>
-                      <strong>Quick transition</strong> to{" "}
-                      <strong>Backend</strong> and{" "}
-                      <strong>Lead Support Developer</strong> resulting in{" "}
-                      <strong>reducing</strong> Service Now tickets from{" "}
-                      <strong>500+ to 0</strong>.
+                      <strong>I am working on developing and enhancing the CRM for one of the best online payment service provider in US, Deposyt. Made the web application more robust,modular,responsive and interactive by harnessing technologies like Php, Javascript and SiMan CMS.I have successfully implemented a number of functionalities like QR code generation for easy access to the user profile page, a "add to contacts" feature which enables a user to save one's contact, on their IOS or Android phone,just on a click of a button. I have worked on making the CRM more secure and robust by implementing user access level.</strong> 
                     </li>
-                    <li>
-                      <strong>Developed & Enhanced features</strong> to
-                      implement new changes done in sister project API & build
-                      client-requested features.
-                    </li>
-                    <li>
-                      <strong>Worked on</strong> JIRA stories to develop a new
-                      API to support client-requested features.
-                    </li>
-                    <li>
-                      <strong>Provided KT and workshops</strong> to different
-                      <strong> MNC</strong> handing over Support tasks and
-                      proceedings.
-                    </li>
-                    <li>
-                      <strong>Created</strong> Change requests & Release on SNOW
-                      for each deployment of Frontend, Backend & ETL jobs.
-                    </li>
-                    <li>
-                      <strong>Implemented multi-lingual functionality</strong>{" "}
-                      to the project's <strong>web application</strong> enabling
-                      it to be used
-                      <strong> across different countries</strong> by the
-                      customers.
-                    </li>
-                    <li>
-                      <strong>Worked</strong> on{" "}
-                      <strong>building Hybrid Mobile App</strong> for{" "}
-                      <strong>Health Industry</strong> using Flutter & Dart in
-                      Firm Initiative.
-                    </li>
+                    
                   </ul>
                 </div>
               </div>
@@ -112,33 +78,15 @@ const Experience = () => {
                     Inditech Health Solutions
                   </strong>
                   <br />
-                  <strong>Technology:</strong> Php, PhpMyadmin, 
+                  <strong>Technology:</strong> Html,Css,Php,Mysql
                   <br />
                   <strong>Duration:</strong> August 2022 - JAN 2024
                   <br />
                   <strong> Description </strong>
                   <ul className="text-left">
                     <li>
-                      <strong>Developed &amp; enhanced</strong> multiple
-                      features with customizability option across web apps
-                    </li>
-                    <li>
-                      <strong>Developed</strong> automation system to create SQL
-                      bulk query scripts that increased efficiency by 80%.
-                    </li>
-                    <li>
-                      <strong>Performed</strong> application maintenance while
-                      working as Production Support.
-                    </li>
-                    <li>
-                      <strong>Performed</strong> CRUD operations on multiple
-                      databases to load/ remove data according to the business
-                      requirements.
-                    </li>
-                    <li>
-                      <strong>Co-created</strong> React Document used as a guide
-                      for new developers.
-                    </li>
+                      <strong>I worked on building web application for Serum Institute of India and other pharma brands like Zydus,DIAP, BioSynth Pharma,etc., by using php, with secure login and authentication by using Google APIs. Have implemented features to hide filename from URLs to make URLs look more cleaner and professional.</strong> 
+                      </li>
                   </ul>
                 </div>
               </div>
