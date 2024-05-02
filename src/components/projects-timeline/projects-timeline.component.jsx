@@ -84,7 +84,7 @@ const TimeLine = () => {
             className="text-center"
             text="Learning Management System"
             src={L_ReactToDoList}
-            alt="Learning Management System"
+            alt="Learning"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
               <div>
