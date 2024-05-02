@@ -100,7 +100,7 @@ const TimeLine = () => {
 
                     <Accordion.Collapse eventKey="0" className="text-left">
                       <Card.Body>
-                        <strong>Description:</strong>Created an app like classroom app for a seamless interac􀆟on between teachers and students where study materials can be shared in form of documents, text,etc.
+                        <strong>Description:</strong>Created classroom app for a seamless interac􀆟on between teachers and students where study materials can be shared in form of documents, text,etc.
                         <hr />
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">
