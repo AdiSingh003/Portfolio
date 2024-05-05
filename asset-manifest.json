@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5c8d9755.css",
-    "main.js": "/Portfolio/static/js/main.116f39d1.js",
+    "main.js": "/Portfolio/static/js/main.164092f6.js",
     "static/media/slide1.webp": "/Portfolio/static/media/slide1.14619b040f52684f1d90.webp",
     "static/media/slide3.webp": "/Portfolio/static/media/slide3.ea32b5ab7ffc78454ce0.webp",
     "static/media/background.webp": "/Portfolio/static/media/background.f68146215cd63c0647c5.webp",
@@ -49,12 +49,13 @@
     "static/media/typescript.svg": "/Portfolio/static/media/typescript.a6305a733dd55243980aec55f96f70c5.svg",
     "static/media/git-icon.svg": "/Portfolio/static/media/git-icon.c60b7e5ae8ec2562f23fdddcab300026.svg",
     "static/media/django.svg": "/Portfolio/static/media/django.0779fca292c0a723b464bcb7534f802c.svg",
+    "static/media/tailwind-svgrepo-com.svg": "/Portfolio/static/media/tailwind-svgrepo-com.973c73e85d4daa24b257ba20298716c4.svg",
     "static/media/material-ui-1.svg": "/Portfolio/static/media/material-ui-1.fd510ed8518b192069590b04e2e6348a.svg",
     "main.5c8d9755.css.map": "/Portfolio/static/css/main.5c8d9755.css.map",
-    "main.116f39d1.js.map": "/Portfolio/static/js/main.116f39d1.js.map"
+    "main.164092f6.js.map": "/Portfolio/static/js/main.164092f6.js.map"
   },
   "entrypoints": [
     "static/css/main.5c8d9755.css",
-    "static/js/main.116f39d1.js"
+    "static/js/main.164092f6.js"
   ]
 }
