@@ -41,7 +41,6 @@ const TimeLine = () => {
             date="01/10/2021"
             className="text-center"
             text="E-Commerce Website"
-            src={L_ReactToDoList}
             alt="E-Commerce Website"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
@@ -83,7 +82,6 @@ const TimeLine = () => {
             date="16/09/2020"
             className="text-center"
             text="Learning Management System"
-            src={L_ReactToDoList}
             alt="Learning"
           >
             <div className="d-flex justify-content-between flex-column mt-1">
@@ -105,7 +103,7 @@ const TimeLine = () => {
                         <strong>Features:</strong>
                         <ul className="list-styles pt-1">
                           <li>Share resources in form of text,documents,audio and video</li>
-                          <li>Google Meets API for real-time video calsl</li>
+                          <li>Google Meets API for real-time video calls</li>
                           <li>Android and IOS supported</li>
                         </ul>
                         <hr />

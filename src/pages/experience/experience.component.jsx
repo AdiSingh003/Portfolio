@@ -40,10 +40,11 @@ const Experience = () => {
                   <br />
                   <strong> Description </strong>
                   <ul className="text-left">
-                    <li>
-                      <strong>I am working on developing and enhancing the CRM for one of the best online payment service provider in US, Deposyt. Made the web application more robust,modular,responsive and interactive by harnessing technologies like Php, Javascript and SiMan CMS.I have successfully implemented a number of functionalities like QR code generation for easy access to the user profile page, a "add to contacts" feature which enables a user to save one's contact, on their IOS or Android phone,just on a click of a button. I have worked on making the CRM more secure and robust by implementing user access level.</strong> 
-                    </li>
-                    
+                      <li>Working on developing and enhancing the CRM for one of the <strong>best online payment service provider in US, Deposyt</strong>.</li>
+                      <li>Made the web application more <strong>robust</strong>,<strong>modular</strong>,<strong>responsive</strong> and <strong>interactive</strong> by harnessing technologies like <strong>Php</strong>,<strong>Javascript</strong> and <strong>Smarty</strong>template.</li> 
+                      <li>I have successfully implemented a number of functionalities like <strong>QR code generation</strong> on user profile page, a 
+                      <strong>"add to contacts"</strong> feature which enables a user to save one's contact, on their <strong>IOS</strong> or <strong>Android</strong> phone,just on a click of a button.</li>
+                      <li>I have worked on making the CRM more <strong>secure</strong> and <strong>robust</strong> by implementing <strong>user access level</strong>.</li>
                   </ul>
                 </div>
               </div>
@@ -78,15 +79,15 @@ const Experience = () => {
                     Inditech Health Solutions
                   </strong>
                   <br />
-                  <strong>Technology:</strong> Html,Css,Php,Mysql
+                  <strong>Technology:</strong> Html,Css,Php,Mysql,Javascript
                   <br />
                   <strong>Duration:</strong> August 2022 - JAN 2024
                   <br />
                   <strong> Description </strong>
                   <ul className="text-left">
                     <li>
-                      <strong>I worked on building web application for Serum Institute of India and other pharma brands like Zydus,DIAP, BioSynth Pharma,etc., by using php, with secure login and authentication by using Google APIs. Have implemented features to hide filename from URLs to make URLs look more cleaner and professional.</strong> 
-                      </li>
+                      I worked on building web application for <strong>Serum Institute of India</strong> and other pharma brands like <strong>Zydus,DIAP, BioSynth Pharma</strong>,etc., by using php, with <strong>secure login and authentication</strong> by using <strong>Google APIs</strong>.</li>
+                      <li>Implemented <strong>Rewrite Rule</strong>feature to <strong>hide filename from URLs</strong> to make URLs look more cleaner and professional.</li> 
                   </ul>
                 </div>
               </div>
