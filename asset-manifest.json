@@ -1,22 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5c8d9755.css",
-    "main.js": "/Portfolio/static/js/main.164092f6.js",
+    "main.js": "/Portfolio/static/js/main.d9d5abb7.js",
     "static/media/slide1.webp": "/Portfolio/static/media/slide1.14619b040f52684f1d90.webp",
     "static/media/slide3.webp": "/Portfolio/static/media/slide3.ea32b5ab7ffc78454ce0.webp",
     "static/media/background.webp": "/Portfolio/static/media/background.f68146215cd63c0647c5.webp",
-    "static/media/mern_tip_calc.webp": "/Portfolio/static/media/mern_tip_calc.4a1b8f7e97523b9fe9e1.webp",
-    "static/media/Robofriends.webp": "/Portfolio/static/media/Robofriends.1852c70227068328e277.webp",
-    "static/media/brain.webp": "/Portfolio/static/media/brain.03eb81af6b9aa49719bb.webp",
     "static/media/slide2.webp": "/Portfolio/static/media/slide2.d58e7971f0d52b4f27b3.webp",
     "static/media/Aditya_Pratap_Singh.jpg": "/Portfolio/static/media/Aditya_Pratap_Singh.8993806bb50856cc9db9.jpg",
-    "static/media/React_ToDo_List.webp": "/Portfolio/static/media/React_ToDo_List.1767548b1bf72e93f533.webp",
-    "static/media/portfolioUsingDjango.webp": "/Portfolio/static/media/portfolioUsingDjango.9a0557854688185b14eb.webp",
     "static/media/mssql.svg": "/Portfolio/static/media/mssql.18f84630d77ee59a93814e1aa3bc9770.svg",
-    "static/media/product_hunt_clone.webp": "/Portfolio/static/media/product_hunt_clone.da9eb27237028270f25d.webp",
-    "static/media/get_github_info.webp": "/Portfolio/static/media/get_github_info.bea69aab7426e95eda60.webp",
     "static/media/postman-icon-svgrepo-com.svg": "/Portfolio/static/media/postman-icon-svgrepo-com.c74cd48d00339ba03ff2e6ed3f9d0c4d.svg",
-    "static/media/accenture-3.svg": "/Portfolio/static/media/accenture-3.314419f496c5774e3cdd7344c9f3718d.svg",
     "static/media/mongodb.svg": "/Portfolio/static/media/mongodb.d89a6eebb2b81e487ffc99f69a3f6ea4.svg",
     "static/media/nodejs.svg": "/Portfolio/static/media/nodejs.52cbf9a89f44655c0375b9e9f88bf9c5.svg",
     "static/media/postgresql.svg": "/Portfolio/static/media/postgresql.ae92b576b8ea41666538c0756df27969.svg",
@@ -27,7 +19,6 @@
     "static/media/react.svg": "/Portfolio/static/media/react.add74742e9e8f8827f7fa666dca760db.svg",
     "static/media/digital-ocean.svg": "/Portfolio/static/media/digital-ocean.744a69736c6a24a3a3debe11e39da702.svg",
     "static/media/react-bootstrap.svg": "/Portfolio/static/media/react-bootstrap.534ba5749ea53d6d943b273291be8174.svg",
-    "static/media/deloitte.svg": "/Portfolio/static/media/deloitte.3b446f344e099f7d43a7816289748e43.svg",
     "static/media/sass-1.svg": "/Portfolio/static/media/sass-1.8aa78a8393470431c8036541f0708bd7.svg",
     "static/media/php-svgrepo-com.svg": "/Portfolio/static/media/php-svgrepo-com.b576351b1a5fa650afe765140deb74d3.svg",
     "static/media/css3.svg": "/Portfolio/static/media/css3.8fba365c2c5824342874c7a674943eb8.svg",
@@ -52,10 +43,10 @@
     "static/media/tailwind-svgrepo-com.svg": "/Portfolio/static/media/tailwind-svgrepo-com.973c73e85d4daa24b257ba20298716c4.svg",
     "static/media/material-ui-1.svg": "/Portfolio/static/media/material-ui-1.fd510ed8518b192069590b04e2e6348a.svg",
     "main.5c8d9755.css.map": "/Portfolio/static/css/main.5c8d9755.css.map",
-    "main.164092f6.js.map": "/Portfolio/static/js/main.164092f6.js.map"
+    "main.d9d5abb7.js.map": "/Portfolio/static/js/main.d9d5abb7.js.map"
   },
   "entrypoints": [
     "static/css/main.5c8d9755.css",
-    "static/js/main.164092f6.js"
+    "static/js/main.d9d5abb7.js"
   ]
 }
