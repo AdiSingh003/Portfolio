@@ -42,8 +42,7 @@ const Experience = () => {
                   <ul className="text-left">
                       <li>Working on developing and enhancing the CRM for one of the <strong>best online payment service provider in US</strong>, <strong>Deposyt</strong>.</li>
                       <li>Made the web application more <strong>robust</strong>,<strong>modular</strong>,<strong>responsive</strong> and <strong>interactive</strong> by harnessing technologies like <strong>Php</strong>,<strong>Javascript</strong> and <strong>Smarty</strong> template.</li> 
-                      <li>I have successfully implemented a number of functionalities like <strong>QR code generation</strong> on user profile page, a  
-                      <strong>"add to contacts"</strong> feature which enables a user to save one's contact, on their <strong>IOS</strong> or <strong>Android</strong> phone,just on a click of a button.</li>
+                      <li>I have successfully implemented a number of functionalities like <strong>QR code generation</strong> on user profile page, a <strong>"add to contacts"</strong> feature which enables a user to save one's contact, on their <strong>IOS</strong> or <strong>Android</strong> phone,just on a click of a button.</li>
                       <li>I have worked on making the CRM more <strong>secure</strong> and <strong>robust</strong> by implementing <strong>user access level</strong>.</li>
                   </ul>
                 </div>

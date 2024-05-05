@@ -28,6 +28,7 @@ import L_NESTJS from "../../assets/img/skills/nestjs.svg";
 import L_FIREBASE from "../../assets/img/skills/firebase.svg";
 import L_FLUTTER from "../../assets/img/skills/flutter.svg";
 import L_Dart from "../../assets/img/skills/dart.svg";
+import L_TAILWIND from "../../assets/img/skills/tailwind-svgrepo-com.svg";
 
 export const skills = {
   frontend: [
@@ -50,6 +51,11 @@ export const skills = {
       imgAltText: "Bootstrap",
       imgSrc: L_BOOTSTRAP,
       skillName: "Bootstrap",
+    },
+    {
+      imgAltText: "Tailwind",
+      imgSrc: L_TAILWIND,
+      skillName: "Tailwind",
     },
     {
       imgAltText: "React JS",
