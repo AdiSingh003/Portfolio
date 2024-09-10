@@ -6,7 +6,6 @@ import "./about.styles.css";
 import Profile from "../../assets/img/profile/Aditya_Pratap_Singh.jpg";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
-import Tilt from "react-tilt";
 
 const About = () => {
   return (
@@ -17,15 +16,11 @@ const About = () => {
           <Row className="pt-3 pb-5 align-items-center">
             <Col xs={12} md={6}>
               <Row className="justify-content-center mb-2">
-                <Tilt options={{ max: 5, scale: 1 }}>
                   <Image
                     className="profile justify-content-end"
                     alt="profile"
                     src={Profile}
-                    thumbnail
-                    fluid
                   />
-                </Tilt>
               </Row>
             </Col>
             <Col xs={12} md={6}>
@@ -55,28 +50,6 @@ const About = () => {
                     >
                       <Button className="m-2" variant="outline-success">
                         My Resume
-                      </Button>
-                    </a>
-                  </div>
-                  <div>
-                    <a
-                      href="https://github.com/AdiSingh003"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <Button className="m-2" variant="outline-dark">
-                        GitHub
-                      </Button>
-                    </a>
-                  </div>
-                  <div>
-                    <a
-                      href="https://www.linkedin.com/in/aditya-pratap-singh-a82a62279/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <Button className="m-2" variant="outline-info">
-                        LinkedIn
                       </Button>
                     </a>
                   </div>

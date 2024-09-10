@@ -1,26 +1,23 @@
 import React from "react";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Card from "react-bootstrap/Card";
-import Tilt from "react-tilt";
 import "./experience.styles.css";
 
 const Experience = () => {
   return (
     <div>
       <h1 className="pt-3 text-center font-details-b pb-3">EXPERIENCE</h1>
-      {/* Deloitte */}
       <Jumbotron className="jumbo-style">
-        <Tilt options={{ max: 5, scale: 1 }}>
-          <Card>
-            <Card.Header
-              as="h5"
-              className="d-flex justify-content-center flex-wrap"
+          <Card className="focus">
+            <div
+              className="d-flex justify-content-center flex-wrap mt-2"
             >
               <Card.Img
                 variant="top"
                 className="img-resize"
+                src="https://assets.static-upwork.com/org-logo/425226353710010368"
               />
-            </Card.Header>
+            </div>
             <Card.Body className="d-flex justify-content-center flex-column">
               <div>
                 <Card.Title className="text-center">Junior Software Developer</Card.Title>
@@ -47,23 +44,20 @@ const Experience = () => {
               </div>
             </Card.Body>
           </Card>
-        </Tilt>
       </Jumbotron>
 
-      {/* Accenture */}
       <Jumbotron className="jumbo-style">
-        <Tilt options={{ max: 5, scale: 1 }}>
-          <Card>
-            <Card.Header
-              as="h5"
-              className="d-flex justify-content-center flex-wrap"
+          <Card className="focus">
+            <div
+              className="d-flex justify-content-center flex-wrap mt-2"
             >
               <Card.Img
                 variant="top"
                 className="img-resize"
-                
+                src="https://media.licdn.com/dms/image/D4D0BAQEDFqXHKKgdNw/company-logo_200_200/0/1694257912595/inditech_technology_services_private_limited_logo?e=1730332800&v=beta&t=zFS3HUqOHe7tb4nZRwWh9GE5urOeGPRVNVmCaTUsd-E"
+
               />
-            </Card.Header>
+            </div>
             <Card.Body className="d-flex justify-content-center flex-column">
               <div>
                 <Card.Title className="text-center">
@@ -90,7 +84,6 @@ const Experience = () => {
               </div>
             </Card.Body>
           </Card>
-        </Tilt>
       </Jumbotron>
     </div>
   );
